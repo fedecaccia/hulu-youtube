@@ -9,3 +9,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Example version deployed on: [https://hulu-youtube-six.vercel.app](https://hulu-youtube-six.vercel.app).
