@@ -10,6 +10,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-(Needs API_KEY TMDB env variable to work.)
+(Needs API_KEY TMDB env variable to work).
 
 Example version deployed on: [https://hulu-youtube-six.vercel.app](https://hulu-youtube-six.vercel.app).
