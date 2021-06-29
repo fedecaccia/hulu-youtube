@@ -13,3 +13,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 (Needs API_KEY TMDB env variable to work).
 
 Example version deployed on: [https://hulu-youtube-six.vercel.app](https://hulu-youtube-six.vercel.app).
+
+App inspired by [this awesome Sonny Sanngha video](https://www.youtube.com/watch?v=MqDlsjc8GLo).
